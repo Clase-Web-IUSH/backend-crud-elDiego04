@@ -50,4 +50,4 @@ Este proyecto es una **simulación de un sistema para la gestión de un taller m
 
 
 # ¡iMPORTANTE!
-## El archivo .md, al igual que los datos para las peticiones fueron hechas por chat gpt porque me dió pereza hacerlos jajajajajaja
+## El archivo .md, al igual que los datos para las peticiones fueron hechas por chat gpt porque me dió pereza hacerlos manualmente jajajajajaja
